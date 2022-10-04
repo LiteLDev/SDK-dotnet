@@ -791,190 +791,6 @@ Experience required to upgrade to level from (level-1)
  @param str The message
 
 </member>
-        <member name="M:Monster.isDarkEnoughToSpawn">
-@hash   1219672142
-@vftbl  367
-@symbol ?isDarkEnoughToSpawn@Monster@@UEBA_NXZ
-
-</member>
-        <member name="M:Monster.__unk_vfn_365">
-@vftbl  365
-@symbol __unk_vfn_365
-
-</member>
-        <member name="M:Monster.__unk_vfn_351">
-@vftbl  351
-@symbol __unk_vfn_351
-
-</member>
-        <member name="M:Monster.__unk_vfn_317">
-@vftbl  317
-@symbol __unk_vfn_317
-
-</member>
-        <member name="M:Monster.__unk_vfn_313">
-@vftbl  313
-@symbol __unk_vfn_313
-
-</member>
-        <member name="M:Monster.checkSpawnRules(System.Boolean)">
-@hash   792994537
-@vftbl  305
-@symbol ?checkSpawnRules@Monster@@UEAA_N_N@Z
-
-</member>
-        <member name="M:Monster.aiStep">
-@hash   1542094065
-@vftbl  300
-@symbol ?aiStep@Monster@@UEAAXXZ
-
-</member>
-        <member name="M:Monster.__unk_vfn_285">
-@vftbl  285
-@symbol __unk_vfn_285
-
-</member>
-        <member name="M:Monster.__unk_vfn_278">
-@vftbl  278
-@symbol __unk_vfn_278
-
-</member>
-        <member name="M:Monster.__unk_vfn_270">
-@vftbl  270
-@symbol __unk_vfn_270
-
-</member>
-        <member name="M:Monster.__unk_vfn_251">
-@vftbl  251
-@symbol __unk_vfn_251
-
-</member>
-        <member name="M:Monster.__unk_vfn_248">
-@vftbl  248
-@symbol __unk_vfn_248
-
-</member>
-        <member name="M:Monster.__unk_vfn_222">
-@vftbl  222
-@symbol __unk_vfn_222
-
-</member>
-        <member name="M:Monster.__unk_vfn_221">
-@vftbl  221
-@symbol __unk_vfn_221
-
-</member>
-        <member name="M:Monster.__unk_vfn_195">
-@vftbl  195
-@symbol __unk_vfn_195
-
-</member>
-        <member name="M:Monster.__unk_vfn_181">
-@vftbl  181
-@symbol __unk_vfn_181
-
-</member>
-        <member name="M:Monster.__unk_vfn_110">
-@vftbl  110
-@symbol __unk_vfn_110
-
-</member>
-        <member name="M:Monster.__unk_vfn_108">
-@vftbl  108
-@symbol __unk_vfn_108
-
-</member>
-        <member name="M:Monster.__unk_vfn_107">
-@vftbl  107
-@symbol __unk_vfn_107
-
-</member>
-        <member name="M:Monster.__unk_vfn_105">
-@vftbl  105
-@symbol __unk_vfn_105
-
-</member>
-        <member name="M:Monster.__unk_vfn_98">
-@vftbl  98
-@symbol __unk_vfn_98
-
-</member>
-        <member name="M:Monster.__unk_vfn_95">
-@vftbl  95
-@symbol __unk_vfn_95
-
-</member>
-        <member name="M:Monster.__unk_vfn_87">
-@vftbl  87
-@symbol __unk_vfn_87
-
-</member>
-        <member name="M:Monster.__unk_vfn_84">
-@vftbl  84
-@symbol __unk_vfn_84
-
-</member>
-        <member name="M:Monster.__unk_vfn_81">
-@vftbl  81
-@symbol __unk_vfn_81
-
-</member>
-        <member name="M:Monster.__unk_vfn_67">
-@vftbl  67
-@symbol __unk_vfn_67
-
-</member>
-        <member name="M:Monster.__unk_vfn_60">
-@vftbl  60
-@symbol __unk_vfn_60
-
-</member>
-        <member name="M:Monster.normalTick">
-@hash   -1409489647
-@vftbl  48
-@symbol ?normalTick@Monster@@UEAAXXZ
-
-</member>
-        <member name="M:Monster.__unk_vfn_40">
-@vftbl  40
-@symbol __unk_vfn_40
-
-</member>
-        <member name="M:Monster.Dispose">
-@vftbl  14
-@symbol __unk_destructor_14
-
-</member>
-        <member name="T:Monster">
- @file  Monster.hpp
-
-
- @brief MC class Monster.
-
-
-
- @brief MC class Monster.
-
-
-</member>
-        <member name="M:MCRESULT.isSuccess">
-@hash   1264322972
-@symbol ?isSuccess@MCRESULT@@QEBA_NXZ
-
-</member>
-        <member name="M:MCRESULT.getFullCode">
-@hash   1620716886
-@symbol ?getFullCode@MCRESULT@@QEBAHXZ
-
-</member>
-        <member name="T:MCRESULT">
- @file  MCRESULT.hpp
-
-
- @brief MC structure MCRESULT.
-
-
-</member>
         <member name="M:ServerPlayer._updateNearbyActors">
 @hash   -1451666963
 @symbol ?_updateNearbyActors@ServerPlayer@@AEAAXXZ
@@ -1465,21 +1281,93 @@ Experience required to upgrade to level from (level-1)
 
 
 </member>
-        <member name="M:CommandMessage.Dispose">
-@hash   997035958
-@symbol ??1CommandMessage@@QEAA@XZ
+        <member name="M:CommandOutputParameter.Dispose">
+@hash   185739143
+@symbol ??1CommandOutputParameter@@QEAA@XZ
 
 </member>
-        <member name="M:CommandMessage.#ctor">
-@hash   248780216
-@symbol ??0CommandMessage@@QEAA@XZ
+        <member name="T:CommandSelectorResults&lt;Player&gt;">
+@hash   2114844177
+@symbol ??0CommandOutputParameter@@QEAA@AEBV?$CommandSelectorResults@VPlayer@@@@@Z
 
 </member>
-        <member name="T:CommandMessage">
- @file  CommandMessage.hpp
+        <member name="T:CommandSelectorResults&lt;Actor&gt;">
+@hash   -2131325331
+@symbol ??0CommandOutputParameter@@QEAA@AEBV?$CommandSelectorResults@VActor@@@@@Z
+
+</member>
+        <member name="M:CommandOutputParameter.#ctor(std.basic_string&lt;System.SByte!System.Runtime.CompilerServices.IsSignUnspecifiedByte,std.char_traits{System.SByte!System.Runtime.CompilerServices.IsSignUnspecifiedByte},std.allocator&lt;System.SByte!System.Runtime.CompilerServices.IsSignUnspecifiedByte&gt;&gt;!System.Runtime.CompilerServices.IsConst*!System.Runtime.CompilerServices.IsImplicitlyDereferenced)">
+@hash   1189944520
+@symbol ??0CommandOutputParameter@@QEAA@AEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z
+
+</member>
+        <member name="M:CommandOutputParameter.#ctor(std.vector&lt;Player!System.Runtime.CompilerServices.IsConst**,std.allocator&lt;Player!System.Runtime.CompilerServices.IsConst**&gt;&gt;!System.Runtime.CompilerServices.IsConst*!System.Runtime.CompilerServices.IsImplicitlyDereferenced)">
+@hash   -1260346258
+@symbol ??0CommandOutputParameter@@QEAA@AEBV?$vector@PEBVPlayer@@V?$allocator@PEBVPlayer@@@std@@@std@@@Z
+
+</member>
+        <member name="M:CommandOutputParameter.#ctor(std.vector&lt;Actor!System.Runtime.CompilerServices.IsConst**,std.allocator&lt;Actor!System.Runtime.CompilerServices.IsConst**&gt;&gt;!System.Runtime.CompilerServices.IsConst*!System.Runtime.CompilerServices.IsImplicitlyDereferenced)">
+@hash   -852335118
+@symbol ??0CommandOutputParameter@@QEAA@AEBV?$vector@PEBVActor@@V?$allocator@PEBVActor@@@std@@@std@@@Z
+
+</member>
+        <member name="M:CommandOutputParameter.#ctor(std.vector&lt;std.basic_string&lt;System.SByte!System.Runtime.CompilerServices.IsSignUnspecifiedByte,std.char_traits{System.SByte!System.Runtime.CompilerServices.IsSignUnspecifiedByte},std.allocator&lt;System.SByte!System.Runtime.CompilerServices.IsSignUnspecifiedByte&gt;&gt;,std.allocator&lt;std.basic_string&lt;System.SByte!System.Runtime.CompilerServices.IsSignUnspecifiedByte,std.char_traits{System.SByte!System.Runtime.CompilerServices.IsSignUnspecifiedByte},std.allocator&lt;System.SByte!System.Runtime.CompilerServices.IsSignUnspecifiedByte&gt;&gt;&gt;&gt;!System.Runtime.CompilerServices.IsConst*!System.Runtime.CompilerServices.IsImplicitlyDereferenced)">
+@hash   -416823039
+@symbol ??0CommandOutputParameter@@QEAA@AEBV?$vector@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@V?$allocator@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@2@@std@@@Z
+
+</member>
+        <member name="M:CommandOutputParameter.#ctor(System.Int32)">
+@hash   -16796030
+@symbol ??0CommandOutputParameter@@QEAA@H@Z
+
+</member>
+        <member name="M:CommandOutputParameter.#ctor(System.Single)">
+@hash   -1598396880
+@symbol ??0CommandOutputParameter@@QEAA@M@Z
+
+</member>
+        <member name="M:CommandOutputParameter.#ctor(System.SByte!System.Runtime.CompilerServices.IsSignUnspecifiedByte!System.Runtime.CompilerServices.IsConst*)">
+@hash   -1013423683
+@symbol ??0CommandOutputParameter@@QEAA@PEBD@Z
+
+</member>
+        <member name="T:CommandOutputParameter.NoCountType">
+@hash   704575447
+@symbol ??0CommandOutputParameter@@QEAA@W4NoCountType@0@@Z
+
+</member>
+        <member name="M:CommandOutputParameter.#ctor(System.Boolean)">
+@hash   826964098
+@symbol ??0CommandOutputParameter@@QEAA@_N@Z
+
+</member>
+        <member name="T:CommandOutputParameter">
+ @file  CommandOutputParameter.hpp
 
 
- @brief MC class CommandMessage.
+ @brief MC class CommandOutputParameter.
+
+
+
+@hash   719883393
+@symbol ??0CommandOutputParameter@@QEAA@AEBV0@@Z
+
+
+@hash   -757947261
+@symbol ??0CommandOutputParameter@@QEAA@$$QEAV0@@Z
+
+
+@symbol ??4CommandOutputParameter@@QEAAAEAV0@$$QEAV0@@Z
+
+
+ @file  CommandOutput.hpp
+ @note  This Header is auto generated by LiteLoaderBDS Toolchain.
+
+
+ @file  CommandOutputParameter.hpp
+
+
+ @brief MC class CommandOutputParameter.
 
 
 </member>
@@ -1593,93 +1481,205 @@ Experience required to upgrade to level from (level-1)
 @return The player as the command origin, `nullptr` if the command origin is not a player
 
 </member>
-        <member name="M:CommandOutputParameter.Dispose">
-@hash   185739143
-@symbol ??1CommandOutputParameter@@QEAA@XZ
+        <member name="M:CommandMessage.Dispose">
+@hash   997035958
+@symbol ??1CommandMessage@@QEAA@XZ
 
 </member>
-        <member name="T:CommandSelectorResults&lt;Player&gt;">
-@hash   2114844177
-@symbol ??0CommandOutputParameter@@QEAA@AEBV?$CommandSelectorResults@VPlayer@@@@@Z
+        <member name="M:CommandMessage.#ctor">
+@hash   248780216
+@symbol ??0CommandMessage@@QEAA@XZ
 
 </member>
-        <member name="T:CommandSelectorResults&lt;Actor&gt;">
-@hash   -2131325331
-@symbol ??0CommandOutputParameter@@QEAA@AEBV?$CommandSelectorResults@VActor@@@@@Z
+        <member name="T:CommandMessage">
+ @file  CommandMessage.hpp
+
+
+ @brief MC class CommandMessage.
+
 
 </member>
-        <member name="M:CommandOutputParameter.#ctor(std.basic_string&lt;System.SByte!System.Runtime.CompilerServices.IsSignUnspecifiedByte,std.char_traits{System.SByte!System.Runtime.CompilerServices.IsSignUnspecifiedByte},std.allocator&lt;System.SByte!System.Runtime.CompilerServices.IsSignUnspecifiedByte&gt;&gt;!System.Runtime.CompilerServices.IsConst*!System.Runtime.CompilerServices.IsImplicitlyDereferenced)">
-@hash   1189944520
-@symbol ??0CommandOutputParameter@@QEAA@AEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z
+        <member name="M:Monster.isDarkEnoughToSpawn">
+@hash   1219672142
+@vftbl  367
+@symbol ?isDarkEnoughToSpawn@Monster@@UEBA_NXZ
 
 </member>
-        <member name="M:CommandOutputParameter.#ctor(std.vector&lt;Player!System.Runtime.CompilerServices.IsConst**,std.allocator&lt;Player!System.Runtime.CompilerServices.IsConst**&gt;&gt;!System.Runtime.CompilerServices.IsConst*!System.Runtime.CompilerServices.IsImplicitlyDereferenced)">
-@hash   -1260346258
-@symbol ??0CommandOutputParameter@@QEAA@AEBV?$vector@PEBVPlayer@@V?$allocator@PEBVPlayer@@@std@@@std@@@Z
+        <member name="M:Monster.__unk_vfn_365">
+@vftbl  365
+@symbol __unk_vfn_365
 
 </member>
-        <member name="M:CommandOutputParameter.#ctor(std.vector&lt;Actor!System.Runtime.CompilerServices.IsConst**,std.allocator&lt;Actor!System.Runtime.CompilerServices.IsConst**&gt;&gt;!System.Runtime.CompilerServices.IsConst*!System.Runtime.CompilerServices.IsImplicitlyDereferenced)">
-@hash   -852335118
-@symbol ??0CommandOutputParameter@@QEAA@AEBV?$vector@PEBVActor@@V?$allocator@PEBVActor@@@std@@@std@@@Z
+        <member name="M:Monster.__unk_vfn_351">
+@vftbl  351
+@symbol __unk_vfn_351
 
 </member>
-        <member name="M:CommandOutputParameter.#ctor(std.vector&lt;std.basic_string&lt;System.SByte!System.Runtime.CompilerServices.IsSignUnspecifiedByte,std.char_traits{System.SByte!System.Runtime.CompilerServices.IsSignUnspecifiedByte},std.allocator&lt;System.SByte!System.Runtime.CompilerServices.IsSignUnspecifiedByte&gt;&gt;,std.allocator&lt;std.basic_string&lt;System.SByte!System.Runtime.CompilerServices.IsSignUnspecifiedByte,std.char_traits{System.SByte!System.Runtime.CompilerServices.IsSignUnspecifiedByte},std.allocator&lt;System.SByte!System.Runtime.CompilerServices.IsSignUnspecifiedByte&gt;&gt;&gt;&gt;!System.Runtime.CompilerServices.IsConst*!System.Runtime.CompilerServices.IsImplicitlyDereferenced)">
-@hash   -416823039
-@symbol ??0CommandOutputParameter@@QEAA@AEBV?$vector@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@V?$allocator@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@2@@std@@@Z
+        <member name="M:Monster.__unk_vfn_317">
+@vftbl  317
+@symbol __unk_vfn_317
 
 </member>
-        <member name="M:CommandOutputParameter.#ctor(System.Int32)">
-@hash   -16796030
-@symbol ??0CommandOutputParameter@@QEAA@H@Z
+        <member name="M:Monster.__unk_vfn_313">
+@vftbl  313
+@symbol __unk_vfn_313
 
 </member>
-        <member name="M:CommandOutputParameter.#ctor(System.Single)">
-@hash   -1598396880
-@symbol ??0CommandOutputParameter@@QEAA@M@Z
+        <member name="M:Monster.checkSpawnRules(System.Boolean)">
+@hash   792994537
+@vftbl  305
+@symbol ?checkSpawnRules@Monster@@UEAA_N_N@Z
 
 </member>
-        <member name="M:CommandOutputParameter.#ctor(System.SByte!System.Runtime.CompilerServices.IsSignUnspecifiedByte!System.Runtime.CompilerServices.IsConst*)">
-@hash   -1013423683
-@symbol ??0CommandOutputParameter@@QEAA@PEBD@Z
+        <member name="M:Monster.aiStep">
+@hash   1542094065
+@vftbl  300
+@symbol ?aiStep@Monster@@UEAAXXZ
 
 </member>
-        <member name="T:CommandOutputParameter.NoCountType">
-@hash   704575447
-@symbol ??0CommandOutputParameter@@QEAA@W4NoCountType@0@@Z
+        <member name="M:Monster.__unk_vfn_285">
+@vftbl  285
+@symbol __unk_vfn_285
 
 </member>
-        <member name="M:CommandOutputParameter.#ctor(System.Boolean)">
-@hash   826964098
-@symbol ??0CommandOutputParameter@@QEAA@_N@Z
+        <member name="M:Monster.__unk_vfn_278">
+@vftbl  278
+@symbol __unk_vfn_278
 
 </member>
-        <member name="T:CommandOutputParameter">
- @file  CommandOutputParameter.hpp
+        <member name="M:Monster.__unk_vfn_270">
+@vftbl  270
+@symbol __unk_vfn_270
+
+</member>
+        <member name="M:Monster.__unk_vfn_251">
+@vftbl  251
+@symbol __unk_vfn_251
+
+</member>
+        <member name="M:Monster.__unk_vfn_248">
+@vftbl  248
+@symbol __unk_vfn_248
+
+</member>
+        <member name="M:Monster.__unk_vfn_222">
+@vftbl  222
+@symbol __unk_vfn_222
+
+</member>
+        <member name="M:Monster.__unk_vfn_221">
+@vftbl  221
+@symbol __unk_vfn_221
+
+</member>
+        <member name="M:Monster.__unk_vfn_195">
+@vftbl  195
+@symbol __unk_vfn_195
+
+</member>
+        <member name="M:Monster.__unk_vfn_181">
+@vftbl  181
+@symbol __unk_vfn_181
+
+</member>
+        <member name="M:Monster.__unk_vfn_110">
+@vftbl  110
+@symbol __unk_vfn_110
+
+</member>
+        <member name="M:Monster.__unk_vfn_108">
+@vftbl  108
+@symbol __unk_vfn_108
+
+</member>
+        <member name="M:Monster.__unk_vfn_107">
+@vftbl  107
+@symbol __unk_vfn_107
+
+</member>
+        <member name="M:Monster.__unk_vfn_105">
+@vftbl  105
+@symbol __unk_vfn_105
+
+</member>
+        <member name="M:Monster.__unk_vfn_98">
+@vftbl  98
+@symbol __unk_vfn_98
+
+</member>
+        <member name="M:Monster.__unk_vfn_95">
+@vftbl  95
+@symbol __unk_vfn_95
+
+</member>
+        <member name="M:Monster.__unk_vfn_87">
+@vftbl  87
+@symbol __unk_vfn_87
+
+</member>
+        <member name="M:Monster.__unk_vfn_84">
+@vftbl  84
+@symbol __unk_vfn_84
+
+</member>
+        <member name="M:Monster.__unk_vfn_81">
+@vftbl  81
+@symbol __unk_vfn_81
+
+</member>
+        <member name="M:Monster.__unk_vfn_67">
+@vftbl  67
+@symbol __unk_vfn_67
+
+</member>
+        <member name="M:Monster.__unk_vfn_60">
+@vftbl  60
+@symbol __unk_vfn_60
+
+</member>
+        <member name="M:Monster.normalTick">
+@hash   -1409489647
+@vftbl  48
+@symbol ?normalTick@Monster@@UEAAXXZ
+
+</member>
+        <member name="M:Monster.__unk_vfn_40">
+@vftbl  40
+@symbol __unk_vfn_40
+
+</member>
+        <member name="M:Monster.Dispose">
+@vftbl  14
+@symbol __unk_destructor_14
+
+</member>
+        <member name="T:Monster">
+ @file  Monster.hpp
 
 
- @brief MC class CommandOutputParameter.
+ @brief MC class Monster.
 
 
 
-@hash   719883393
-@symbol ??0CommandOutputParameter@@QEAA@AEBV0@@Z
+ @brief MC class Monster.
 
 
-@hash   -757947261
-@symbol ??0CommandOutputParameter@@QEAA@$$QEAV0@@Z
+</member>
+        <member name="M:MCRESULT.isSuccess">
+@hash   1264322972
+@symbol ?isSuccess@MCRESULT@@QEBA_NXZ
+
+</member>
+        <member name="M:MCRESULT.getFullCode">
+@hash   1620716886
+@symbol ?getFullCode@MCRESULT@@QEBAHXZ
+
+</member>
+        <member name="T:MCRESULT">
+ @file  MCRESULT.hpp
 
 
-@symbol ??4CommandOutputParameter@@QEAAAEAV0@$$QEAV0@@Z
-
-
- @file  CommandOutput.hpp
- @note  This Header is auto generated by LiteLoaderBDS Toolchain.
-
-
- @file  CommandOutputParameter.hpp
-
-
- @brief MC class CommandOutputParameter.
+ @brief MC structure MCRESULT.
 
 
 </member>
@@ -4203,16 +4203,16 @@ std containers
 @symbol ?_updatePermissions@ServerNetworkHandler@@AEAA_NAEBVServerPlayer@@AEBVRequestPermissionsPacket@@AEAVAbilities@@AEAVPermissionsHandler@@PEAVPlayer@@@Z
 
 
+ @file  CommandOrigin.hpp
+
+
+
  @brief MC class ServerPlayer.
 
 
 
 @hash   114814728
 @symbol ?tryGetFromEntity@ServerPlayer@@SAPEAV1@AEAVEntityContext@@_N@Z
-
-
- @file  CommandOrigin.hpp
-
 
 </member>
         <member name="M:ServerNetworkHandler.isDedicatedServer">
@@ -6224,6 +6224,10 @@ std containers
 @symbol ?originCanRun@CommandRegistry@@AEBA_NAEBVCommandOrigin@@AEBUSignature@1@@Z
 
 
+@hash   1597173915
+@symbol ?getMessage@CommandMessage@@QEBA?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@AEBVCommandOrigin@@@Z
+
+
  @brief The command origin
 
 
@@ -6231,10 +6235,6 @@ std containers
 @hash   145469105
 @vftbl  21
 @symbol ?getOutputReceiver@CommandOrigin@@UEBAAEBV1@XZ
-
-
-@hash   1597173915
-@symbol ?getMessage@CommandMessage@@QEBA?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@AEBVCommandOrigin@@@Z
 
 
 @hash   1309234419
@@ -8519,13 +8519,6 @@ root value)
 @symbol ?_onSubClientAuthenticated@ServerNetworkHandler@@AEAAXAEBVNetworkIdentifier@@AEBVCertificate@@AEBVSubClientLoginPacket@@@Z
 
 
- @file  NetworkIdentifier.hpp
-
-
- @file  RakNet.hpp
-
-
-
 @hash   983002425
 @vftbl  19
 @symbol ?getSourceId@CommandOrigin@@UEBAAEBVNetworkIdentifier@@XZ
@@ -8533,6 +8526,13 @@ root value)
 
 @hash   -1288343827
 @symbol ?sUnknownSource@CommandOrigin@@1VNetworkIdentifier@@A
+
+
+ @file  NetworkIdentifier.hpp
+
+
+ @file  RakNet.hpp
+
 
 
  @file  RakNet.hpp
@@ -12551,16 +12551,6 @@ root value)
 @symbol ?onUpdatePacket@BlockActor@@QEAA_NAEBVCompoundTag@@AEAVBlockSource@@PEBVPlayer@@@Z
 
 
-@hash   1134933223
-@vftbl  29
-@symbol ?serialize@CommandOrigin@@UEBA?AVCompoundTag@@XZ
-
-
-@hash   1935215111
-@vftbl  167
-@symbol ?load@ServerPlayer@@UEAA_NAEBVCompoundTag@@AEAVDataLoadHelper@@@Z
-
-
 @hash   -1970234554
 @vftbl  274
 @symbol ?readAdditionalSaveData@Monster@@MEAAXAEBVCompoundTag@@AEAVDataLoadHelper@@@Z
@@ -12569,6 +12559,16 @@ root value)
 @hash   -1239925321
 @vftbl  275
 @symbol ?addAdditionalSaveData@Monster@@MEBAXAEAVCompoundTag@@@Z
+
+
+@hash   1134933223
+@vftbl  29
+@symbol ?serialize@CommandOrigin@@UEBA?AVCompoundTag@@XZ
+
+
+@hash   1935215111
+@vftbl  167
+@symbol ?load@ServerPlayer@@UEAA_NAEBVCompoundTag@@AEAVDataLoadHelper@@@Z
 
 </member>
         <member name="M:Actor.consumeTotem">
@@ -13158,8 +13158,9 @@ root value)
 @symbol ?moveTo@BlockActor@@QEAAXAEBVBlockPos@@@Z
 
 
-@hash   -1444216838
-@symbol ??0CommandOutputParameter@@QEAA@VBlockPos@@@Z
+@hash   1595655749
+@vftbl  349
+@symbol ?_getWalkTargetValue@Monster@@UEAAMAEBVBlockPos@@@Z
 
 
 @hash   807451906
@@ -13183,13 +13184,12 @@ root value)
 @symbol ?getAreaAtWithBuffer@CommandOrigin@@QEBA?AV?$unique_ptr@VCommandArea@@U?$default_delete@VCommandArea@@@std@@@std@@AEBVBlockPos@@H@Z
 
 
+@hash   -1444216838
+@symbol ??0CommandOutputParameter@@QEAA@VBlockPos@@@Z
+
+
 @hash   -1160589631
 @symbol ?handleBlockPickRequestOnServer@ServerPlayer@@QEAAXAEBVBlockPos@@_N@Z
-
-
-@hash   1595655749
-@vftbl  349
-@symbol ?_getWalkTargetValue@Monster@@UEAAMAEBVBlockPos@@@Z
 
 </member>
         <member name="M:Actor.onLightningHit">
@@ -14885,6 +14885,11 @@ root value)
 @symbol ?_blockUsingShield@Player@@AEAA_NAEBVActorDamageSource@@M@Z
 
 
+@hash   -1792636442
+@vftbl  271
+@symbol ?_hurt@Monster@@MEAA_NAEBVActorDamageSource@@M_N1@Z
+
+
 @hash   -763565257
 @vftbl  253
 @symbol ?die@ServerPlayer@@UEAAXAEBVActorDamageSource@@@Z
@@ -14893,11 +14898,6 @@ root value)
 @hash   138883112
 @vftbl  325
 @symbol ?hurtArmorSlots@ServerPlayer@@UEAAXAEBVActorDamageSource@@HV?$bitset@$03@std@@@Z
-
-
-@hash   -1792636442
-@vftbl  271
-@symbol ?_hurt@Monster@@MEAA_NAEBVActorDamageSource@@M_N1@Z
 
 </member>
         <member name="M:MobEffectInstance.areAllEffectsAmbient(std.vector&lt;MobEffectInstance,std.allocator&lt;MobEffectInstance&gt;&gt;!System.Runtime.CompilerServices.IsConst*!System.Runtime.CompilerServices.IsImplicitlyDereferenced)">
@@ -15825,17 +15825,17 @@ root value)
 @symbol ?shouldStopFalling@Block@@QEBA_NAEAVActor@@@Z
 
 
+@hash   587159730
+@vftbl  8
+@symbol ?getEntity@VirtualCommandOrigin@@UEBAPEAVActor@@XZ
+
+
 @hash   -1481854638
 @symbol ??0CommandOutputParameter@@QEAA@AEBVActor@@@Z
 
 
 @hash   -360782817
 @symbol ??0CommandOutputParameter@@QEAA@PEBVActor@@@Z
-
-
-@hash   587159730
-@vftbl  8
-@symbol ?getEntity@VirtualCommandOrigin@@UEBAPEAVActor@@XZ
 
 
 @hash   -1226875046
@@ -17410,22 +17410,12 @@ Internal details not to be documented.
         <!-- Discarding badly formed XML document comment for member 'M:LL.getAllPlugins'. -->
         <!-- Discarding badly formed XML document comment for member 'T:entt.dispatcher'. -->
         <!-- Discarding badly formed XML document comment for member 'M:fmt.v8.format_system_error(fmt.v8.detail.buffer<System.SByte!System.Runtime.CompilerServices.IsSignUnspecifiedByte>*!System.Runtime.CompilerServices.IsImplicitlyDereferenced,System.Int32,System.SByte!System.Runtime.CompilerServices.IsSignUnspecifiedByte!System.Runtime.CompilerServices.IsConst*)'. -->
-        <!-- Discarding badly formed XML document comment for member 'M:fmt.v8.format_system_error(fmt.v8.detail.buffer<System.SByte!System.Runtime.CompilerServices.IsSignUnspecifiedByte>*!System.Runtime.CompilerServices.IsImplicitlyDereferenced,System.Int32,System.SByte!System.Runtime.CompilerServices.IsSignUnspecifiedByte!System.Runtime.CompilerServices.IsConst*)'. -->
-        <!-- Discarding badly formed XML document comment for member 'T:entt.dispatcher'. -->
         <!-- Discarding badly formed XML document comment for member 'M:ll.getAllPlugins'. -->
         <!-- Discarding badly formed XML document comment for member 'M:LL.getAllPlugins'. -->
         <!-- Discarding badly formed XML document comment for member 'T:entt.dispatcher'. -->
         <!-- Discarding badly formed XML document comment for member 'M:fmt.v8.format_system_error(fmt.v8.detail.buffer<System.SByte!System.Runtime.CompilerServices.IsSignUnspecifiedByte>*!System.Runtime.CompilerServices.IsImplicitlyDereferenced,System.Int32,System.SByte!System.Runtime.CompilerServices.IsSignUnspecifiedByte!System.Runtime.CompilerServices.IsConst*)'. -->
-        <!-- Discarding badly formed XML document comment for member 'T:entt.dispatcher'. -->
         <!-- Discarding badly formed XML document comment for member 'M:fmt.v8.format_system_error(fmt.v8.detail.buffer<System.SByte!System.Runtime.CompilerServices.IsSignUnspecifiedByte>*!System.Runtime.CompilerServices.IsImplicitlyDereferenced,System.Int32,System.SByte!System.Runtime.CompilerServices.IsSignUnspecifiedByte!System.Runtime.CompilerServices.IsConst*)'. -->
         <!-- Discarding badly formed XML document comment for member 'T:entt.dispatcher'. -->
-        <!-- Discarding badly formed XML document comment for member 'M:fmt.v8.format_system_error(fmt.v8.detail.buffer<System.SByte!System.Runtime.CompilerServices.IsSignUnspecifiedByte>*!System.Runtime.CompilerServices.IsImplicitlyDereferenced,System.Int32,System.SByte!System.Runtime.CompilerServices.IsSignUnspecifiedByte!System.Runtime.CompilerServices.IsConst*)'. -->
-        <!-- Discarding badly formed XML document comment for member 'T:entt.dispatcher'. -->
-        <!-- Discarding badly formed XML document comment for member 'M:fmt.v8.format_system_error(fmt.v8.detail.buffer<System.SByte!System.Runtime.CompilerServices.IsSignUnspecifiedByte>*!System.Runtime.CompilerServices.IsImplicitlyDereferenced,System.Int32,System.SByte!System.Runtime.CompilerServices.IsSignUnspecifiedByte!System.Runtime.CompilerServices.IsConst*)'. -->
-        <!-- Discarding badly formed XML document comment for member 'M:ll.getAllPlugins'. -->
-        <!-- Discarding badly formed XML document comment for member 'M:LL.getAllPlugins'. -->
-        <!-- Discarding badly formed XML document comment for member 'T:entt.dispatcher'. -->
-        <!-- Discarding badly formed XML document comment for member 'M:fmt.v8.format_system_error(fmt.v8.detail.buffer<System.SByte!System.Runtime.CompilerServices.IsSignUnspecifiedByte>*!System.Runtime.CompilerServices.IsImplicitlyDereferenced,System.Int32,System.SByte!System.Runtime.CompilerServices.IsSignUnspecifiedByte!System.Runtime.CompilerServices.IsConst*)'. -->
         <!-- Discarding badly formed XML document comment for member 'M:ll.getAllPlugins'. -->
         <!-- Discarding badly formed XML document comment for member 'M:LL.getAllPlugins'. -->
         <!-- Discarding badly formed XML document comment for member 'T:entt.dispatcher'. -->
@@ -17438,14 +17428,6 @@ Internal details not to be documented.
         <!-- Discarding badly formed XML document comment for member 'M:fmt.v8.format_system_error(fmt.v8.detail.buffer<System.SByte!System.Runtime.CompilerServices.IsSignUnspecifiedByte>*!System.Runtime.CompilerServices.IsImplicitlyDereferenced,System.Int32,System.SByte!System.Runtime.CompilerServices.IsSignUnspecifiedByte!System.Runtime.CompilerServices.IsConst*)'. -->
         <!-- Discarding badly formed XML document comment for member 'M:ll.getAllPlugins'. -->
         <!-- Discarding badly formed XML document comment for member 'M:LL.getAllPlugins'. -->
-        <!-- Discarding badly formed XML document comment for member 'T:entt.dispatcher'. -->
-        <!-- Discarding badly formed XML document comment for member 'M:fmt.v8.format_system_error(fmt.v8.detail.buffer<System.SByte!System.Runtime.CompilerServices.IsSignUnspecifiedByte>*!System.Runtime.CompilerServices.IsImplicitlyDereferenced,System.Int32,System.SByte!System.Runtime.CompilerServices.IsSignUnspecifiedByte!System.Runtime.CompilerServices.IsConst*)'. -->
-        <!-- Discarding badly formed XML document comment for member 'M:fmt.v8.format_system_error(fmt.v8.detail.buffer<System.SByte!System.Runtime.CompilerServices.IsSignUnspecifiedByte>*!System.Runtime.CompilerServices.IsImplicitlyDereferenced,System.Int32,System.SByte!System.Runtime.CompilerServices.IsSignUnspecifiedByte!System.Runtime.CompilerServices.IsConst*)'. -->
-        <!-- Discarding badly formed XML document comment for member 'T:entt.dispatcher'. -->
-        <!-- Discarding badly formed XML document comment for member 'M:ll.getAllPlugins'. -->
-        <!-- Discarding badly formed XML document comment for member 'M:LL.getAllPlugins'. -->
-        <!-- Discarding badly formed XML document comment for member 'T:entt.dispatcher'. -->
-        <!-- Discarding badly formed XML document comment for member 'M:fmt.v8.format_system_error(fmt.v8.detail.buffer<System.SByte!System.Runtime.CompilerServices.IsSignUnspecifiedByte>*!System.Runtime.CompilerServices.IsImplicitlyDereferenced,System.Int32,System.SByte!System.Runtime.CompilerServices.IsSignUnspecifiedByte!System.Runtime.CompilerServices.IsConst*)'. -->
         <!-- Discarding badly formed XML document comment for member 'T:entt.dispatcher'. -->
         <!-- Discarding badly formed XML document comment for member 'M:fmt.v8.format_system_error(fmt.v8.detail.buffer<System.SByte!System.Runtime.CompilerServices.IsSignUnspecifiedByte>*!System.Runtime.CompilerServices.IsImplicitlyDereferenced,System.Int32,System.SByte!System.Runtime.CompilerServices.IsSignUnspecifiedByte!System.Runtime.CompilerServices.IsConst*)'. -->
         <!-- Discarding badly formed XML document comment for member 'M:ll.getAllPlugins'. -->
@@ -17462,36 +17444,14 @@ Internal details not to be documented.
         <!-- Discarding badly formed XML document comment for member 'M:LL.getAllPlugins'. -->
         <!-- Discarding badly formed XML document comment for member 'T:entt.dispatcher'. -->
         <!-- Discarding badly formed XML document comment for member 'M:fmt.v8.format_system_error(fmt.v8.detail.buffer<System.SByte!System.Runtime.CompilerServices.IsSignUnspecifiedByte>*!System.Runtime.CompilerServices.IsImplicitlyDereferenced,System.Int32,System.SByte!System.Runtime.CompilerServices.IsSignUnspecifiedByte!System.Runtime.CompilerServices.IsConst*)'. -->
-        <!-- Discarding badly formed XML document comment for member 'T:entt.dispatcher'. -->
         <!-- Discarding badly formed XML document comment for member 'M:fmt.v8.format_system_error(fmt.v8.detail.buffer<System.SByte!System.Runtime.CompilerServices.IsSignUnspecifiedByte>*!System.Runtime.CompilerServices.IsImplicitlyDereferenced,System.Int32,System.SByte!System.Runtime.CompilerServices.IsSignUnspecifiedByte!System.Runtime.CompilerServices.IsConst*)'. -->
+        <!-- Discarding badly formed XML document comment for member 'T:entt.dispatcher'. -->
         <!-- Discarding badly formed XML document comment for member 'M:ll.getAllPlugins'. -->
         <!-- Discarding badly formed XML document comment for member 'M:LL.getAllPlugins'. -->
         <!-- Discarding badly formed XML document comment for member 'T:entt.dispatcher'. -->
         <!-- Discarding badly formed XML document comment for member 'M:fmt.v8.format_system_error(fmt.v8.detail.buffer<System.SByte!System.Runtime.CompilerServices.IsSignUnspecifiedByte>*!System.Runtime.CompilerServices.IsImplicitlyDereferenced,System.Int32,System.SByte!System.Runtime.CompilerServices.IsSignUnspecifiedByte!System.Runtime.CompilerServices.IsConst*)'. -->
         <!-- Discarding badly formed XML document comment for member 'T:entt.dispatcher'. -->
         <!-- Discarding badly formed XML document comment for member 'M:fmt.v8.format_system_error(fmt.v8.detail.buffer<System.SByte!System.Runtime.CompilerServices.IsSignUnspecifiedByte>*!System.Runtime.CompilerServices.IsImplicitlyDereferenced,System.Int32,System.SByte!System.Runtime.CompilerServices.IsSignUnspecifiedByte!System.Runtime.CompilerServices.IsConst*)'. -->
-        <!-- Discarding badly formed XML document comment for member 'M:ll.getAllPlugins'. -->
-        <!-- Discarding badly formed XML document comment for member 'M:LL.getAllPlugins'. -->
-        <!-- Discarding badly formed XML document comment for member 'T:entt.dispatcher'. -->
-        <!-- Discarding badly formed XML document comment for member 'M:fmt.v8.format_system_error(fmt.v8.detail.buffer<System.SByte!System.Runtime.CompilerServices.IsSignUnspecifiedByte>*!System.Runtime.CompilerServices.IsImplicitlyDereferenced,System.Int32,System.SByte!System.Runtime.CompilerServices.IsSignUnspecifiedByte!System.Runtime.CompilerServices.IsConst*)'. -->
-        <!-- Discarding badly formed XML document comment for member 'T:entt.dispatcher'. -->
-        <!-- Discarding badly formed XML document comment for member 'M:fmt.v8.format_system_error(fmt.v8.detail.buffer<System.SByte!System.Runtime.CompilerServices.IsSignUnspecifiedByte>*!System.Runtime.CompilerServices.IsImplicitlyDereferenced,System.Int32,System.SByte!System.Runtime.CompilerServices.IsSignUnspecifiedByte!System.Runtime.CompilerServices.IsConst*)'. -->
-        <!-- Discarding badly formed XML document comment for member 'T:entt.dispatcher'. -->
-        <!-- Discarding badly formed XML document comment for member 'M:fmt.v8.format_system_error(fmt.v8.detail.buffer<System.SByte!System.Runtime.CompilerServices.IsSignUnspecifiedByte>*!System.Runtime.CompilerServices.IsImplicitlyDereferenced,System.Int32,System.SByte!System.Runtime.CompilerServices.IsSignUnspecifiedByte!System.Runtime.CompilerServices.IsConst*)'. -->
-        <!-- Discarding badly formed XML document comment for member 'T:entt.dispatcher'. -->
-        <!-- Discarding badly formed XML document comment for member 'M:fmt.v8.format_system_error(fmt.v8.detail.buffer<System.SByte!System.Runtime.CompilerServices.IsSignUnspecifiedByte>*!System.Runtime.CompilerServices.IsImplicitlyDereferenced,System.Int32,System.SByte!System.Runtime.CompilerServices.IsSignUnspecifiedByte!System.Runtime.CompilerServices.IsConst*)'. -->
-        <!-- Discarding badly formed XML document comment for member 'M:ll.getAllPlugins'. -->
-        <!-- Discarding badly formed XML document comment for member 'M:LL.getAllPlugins'. -->
-        <!-- Discarding badly formed XML document comment for member 'T:entt.dispatcher'. -->
-        <!-- Discarding badly formed XML document comment for member 'M:fmt.v8.format_system_error(fmt.v8.detail.buffer<System.SByte!System.Runtime.CompilerServices.IsSignUnspecifiedByte>*!System.Runtime.CompilerServices.IsImplicitlyDereferenced,System.Int32,System.SByte!System.Runtime.CompilerServices.IsSignUnspecifiedByte!System.Runtime.CompilerServices.IsConst*)'. -->
-        <!-- Discarding badly formed XML document comment for member 'T:entt.dispatcher'. -->
-        <!-- Discarding badly formed XML document comment for member 'M:fmt.v8.format_system_error(fmt.v8.detail.buffer<System.SByte!System.Runtime.CompilerServices.IsSignUnspecifiedByte>*!System.Runtime.CompilerServices.IsImplicitlyDereferenced,System.Int32,System.SByte!System.Runtime.CompilerServices.IsSignUnspecifiedByte!System.Runtime.CompilerServices.IsConst*)'. -->
-        <!-- Discarding badly formed XML document comment for member 'T:entt.dispatcher'. -->
-        <!-- Discarding badly formed XML document comment for member 'M:fmt.v8.format_system_error(fmt.v8.detail.buffer<System.SByte!System.Runtime.CompilerServices.IsSignUnspecifiedByte>*!System.Runtime.CompilerServices.IsImplicitlyDereferenced,System.Int32,System.SByte!System.Runtime.CompilerServices.IsSignUnspecifiedByte!System.Runtime.CompilerServices.IsConst*)'. -->
-        <!-- Discarding badly formed XML document comment for member 'T:entt.dispatcher'. -->
-        <!-- Discarding badly formed XML document comment for member 'M:fmt.v8.format_system_error(fmt.v8.detail.buffer<System.SByte!System.Runtime.CompilerServices.IsSignUnspecifiedByte>*!System.Runtime.CompilerServices.IsImplicitlyDereferenced,System.Int32,System.SByte!System.Runtime.CompilerServices.IsSignUnspecifiedByte!System.Runtime.CompilerServices.IsConst*)'. -->
-        <!-- Discarding badly formed XML document comment for member 'M:ll.getAllPlugins'. -->
-        <!-- Discarding badly formed XML document comment for member 'M:LL.getAllPlugins'. -->
         <!-- Discarding badly formed XML document comment for member 'T:entt.dispatcher'. -->
         <!-- Discarding badly formed XML document comment for member 'M:fmt.v8.format_system_error(fmt.v8.detail.buffer<System.SByte!System.Runtime.CompilerServices.IsSignUnspecifiedByte>*!System.Runtime.CompilerServices.IsImplicitlyDereferenced,System.Int32,System.SByte!System.Runtime.CompilerServices.IsSignUnspecifiedByte!System.Runtime.CompilerServices.IsConst*)'. -->
         <!-- Discarding badly formed XML document comment for member 'T:entt.dispatcher'. -->
@@ -17508,14 +17468,14 @@ Internal details not to be documented.
         <!-- Discarding badly formed XML document comment for member 'M:fmt.v8.format_system_error(fmt.v8.detail.buffer<System.SByte!System.Runtime.CompilerServices.IsSignUnspecifiedByte>*!System.Runtime.CompilerServices.IsImplicitlyDereferenced,System.Int32,System.SByte!System.Runtime.CompilerServices.IsSignUnspecifiedByte!System.Runtime.CompilerServices.IsConst*)'. -->
         <!-- Discarding badly formed XML document comment for member 'T:entt.dispatcher'. -->
         <!-- Discarding badly formed XML document comment for member 'M:fmt.v8.format_system_error(fmt.v8.detail.buffer<System.SByte!System.Runtime.CompilerServices.IsSignUnspecifiedByte>*!System.Runtime.CompilerServices.IsImplicitlyDereferenced,System.Int32,System.SByte!System.Runtime.CompilerServices.IsSignUnspecifiedByte!System.Runtime.CompilerServices.IsConst*)'. -->
+        <!-- Discarding badly formed XML document comment for member 'M:ll.getAllPlugins'. -->
+        <!-- Discarding badly formed XML document comment for member 'M:LL.getAllPlugins'. -->
         <!-- Discarding badly formed XML document comment for member 'T:entt.dispatcher'. -->
         <!-- Discarding badly formed XML document comment for member 'M:fmt.v8.format_system_error(fmt.v8.detail.buffer<System.SByte!System.Runtime.CompilerServices.IsSignUnspecifiedByte>*!System.Runtime.CompilerServices.IsImplicitlyDereferenced,System.Int32,System.SByte!System.Runtime.CompilerServices.IsSignUnspecifiedByte!System.Runtime.CompilerServices.IsConst*)'. -->
         <!-- Discarding badly formed XML document comment for member 'T:entt.dispatcher'. -->
         <!-- Discarding badly formed XML document comment for member 'M:fmt.v8.format_system_error(fmt.v8.detail.buffer<System.SByte!System.Runtime.CompilerServices.IsSignUnspecifiedByte>*!System.Runtime.CompilerServices.IsImplicitlyDereferenced,System.Int32,System.SByte!System.Runtime.CompilerServices.IsSignUnspecifiedByte!System.Runtime.CompilerServices.IsConst*)'. -->
-        <!-- Discarding badly formed XML document comment for member 'T:entt.dispatcher'. -->
-        <!-- Discarding badly formed XML document comment for member 'M:fmt.v8.format_system_error(fmt.v8.detail.buffer<System.SByte!System.Runtime.CompilerServices.IsSignUnspecifiedByte>*!System.Runtime.CompilerServices.IsImplicitlyDereferenced,System.Int32,System.SByte!System.Runtime.CompilerServices.IsSignUnspecifiedByte!System.Runtime.CompilerServices.IsConst*)'. -->
-        <!-- Discarding badly formed XML document comment for member 'T:entt.dispatcher'. -->
-        <!-- Discarding badly formed XML document comment for member 'M:fmt.v8.format_system_error(fmt.v8.detail.buffer<System.SByte!System.Runtime.CompilerServices.IsSignUnspecifiedByte>*!System.Runtime.CompilerServices.IsImplicitlyDereferenced,System.Int32,System.SByte!System.Runtime.CompilerServices.IsSignUnspecifiedByte!System.Runtime.CompilerServices.IsConst*)'. -->
+        <!-- Discarding badly formed XML document comment for member 'M:ll.getAllPlugins'. -->
+        <!-- Discarding badly formed XML document comment for member 'M:LL.getAllPlugins'. -->
         <!-- Discarding badly formed XML document comment for member 'T:entt.dispatcher'. -->
         <!-- Discarding badly formed XML document comment for member 'M:fmt.v8.format_system_error(fmt.v8.detail.buffer<System.SByte!System.Runtime.CompilerServices.IsSignUnspecifiedByte>*!System.Runtime.CompilerServices.IsImplicitlyDereferenced,System.Int32,System.SByte!System.Runtime.CompilerServices.IsSignUnspecifiedByte!System.Runtime.CompilerServices.IsConst*)'. -->
         <!-- Discarding badly formed XML document comment for member 'T:entt.dispatcher'. -->
@@ -17548,6 +17508,66 @@ Internal details not to be documented.
         <!-- Discarding badly formed XML document comment for member 'M:fmt.v8.format_system_error(fmt.v8.detail.buffer<System.SByte!System.Runtime.CompilerServices.IsSignUnspecifiedByte>*!System.Runtime.CompilerServices.IsImplicitlyDereferenced,System.Int32,System.SByte!System.Runtime.CompilerServices.IsSignUnspecifiedByte!System.Runtime.CompilerServices.IsConst*)'. -->
         <!-- Discarding badly formed XML document comment for member 'T:entt.dispatcher'. -->
         <!-- Discarding badly formed XML document comment for member 'M:fmt.v8.format_system_error(fmt.v8.detail.buffer<System.SByte!System.Runtime.CompilerServices.IsSignUnspecifiedByte>*!System.Runtime.CompilerServices.IsImplicitlyDereferenced,System.Int32,System.SByte!System.Runtime.CompilerServices.IsSignUnspecifiedByte!System.Runtime.CompilerServices.IsConst*)'. -->
+        <!-- Discarding badly formed XML document comment for member 'T:entt.dispatcher'. -->
+        <!-- Discarding badly formed XML document comment for member 'M:fmt.v8.format_system_error(fmt.v8.detail.buffer<System.SByte!System.Runtime.CompilerServices.IsSignUnspecifiedByte>*!System.Runtime.CompilerServices.IsImplicitlyDereferenced,System.Int32,System.SByte!System.Runtime.CompilerServices.IsSignUnspecifiedByte!System.Runtime.CompilerServices.IsConst*)'. -->
+        <!-- Discarding badly formed XML document comment for member 'T:entt.dispatcher'. -->
+        <!-- Discarding badly formed XML document comment for member 'M:fmt.v8.format_system_error(fmt.v8.detail.buffer<System.SByte!System.Runtime.CompilerServices.IsSignUnspecifiedByte>*!System.Runtime.CompilerServices.IsImplicitlyDereferenced,System.Int32,System.SByte!System.Runtime.CompilerServices.IsSignUnspecifiedByte!System.Runtime.CompilerServices.IsConst*)'. -->
+        <!-- Discarding badly formed XML document comment for member 'M:ll.getAllPlugins'. -->
+        <!-- Discarding badly formed XML document comment for member 'M:LL.getAllPlugins'. -->
+        <!-- Discarding badly formed XML document comment for member 'T:entt.dispatcher'. -->
+        <!-- Discarding badly formed XML document comment for member 'M:fmt.v8.format_system_error(fmt.v8.detail.buffer<System.SByte!System.Runtime.CompilerServices.IsSignUnspecifiedByte>*!System.Runtime.CompilerServices.IsImplicitlyDereferenced,System.Int32,System.SByte!System.Runtime.CompilerServices.IsSignUnspecifiedByte!System.Runtime.CompilerServices.IsConst*)'. -->
+        <!-- Discarding badly formed XML document comment for member 'T:entt.dispatcher'. -->
+        <!-- Discarding badly formed XML document comment for member 'M:fmt.v8.format_system_error(fmt.v8.detail.buffer<System.SByte!System.Runtime.CompilerServices.IsSignUnspecifiedByte>*!System.Runtime.CompilerServices.IsImplicitlyDereferenced,System.Int32,System.SByte!System.Runtime.CompilerServices.IsSignUnspecifiedByte!System.Runtime.CompilerServices.IsConst*)'. -->
+        <!-- Discarding badly formed XML document comment for member 'T:entt.dispatcher'. -->
+        <!-- Discarding badly formed XML document comment for member 'M:fmt.v8.format_system_error(fmt.v8.detail.buffer<System.SByte!System.Runtime.CompilerServices.IsSignUnspecifiedByte>*!System.Runtime.CompilerServices.IsImplicitlyDereferenced,System.Int32,System.SByte!System.Runtime.CompilerServices.IsSignUnspecifiedByte!System.Runtime.CompilerServices.IsConst*)'. -->
+        <!-- Discarding badly formed XML document comment for member 'T:entt.dispatcher'. -->
+        <!-- Discarding badly formed XML document comment for member 'M:fmt.v8.format_system_error(fmt.v8.detail.buffer<System.SByte!System.Runtime.CompilerServices.IsSignUnspecifiedByte>*!System.Runtime.CompilerServices.IsImplicitlyDereferenced,System.Int32,System.SByte!System.Runtime.CompilerServices.IsSignUnspecifiedByte!System.Runtime.CompilerServices.IsConst*)'. -->
+        <!-- Discarding badly formed XML document comment for member 'T:entt.dispatcher'. -->
+        <!-- Discarding badly formed XML document comment for member 'M:fmt.v8.format_system_error(fmt.v8.detail.buffer<System.SByte!System.Runtime.CompilerServices.IsSignUnspecifiedByte>*!System.Runtime.CompilerServices.IsImplicitlyDereferenced,System.Int32,System.SByte!System.Runtime.CompilerServices.IsSignUnspecifiedByte!System.Runtime.CompilerServices.IsConst*)'. -->
+        <!-- Discarding badly formed XML document comment for member 'T:entt.dispatcher'. -->
+        <!-- Discarding badly formed XML document comment for member 'M:fmt.v8.format_system_error(fmt.v8.detail.buffer<System.SByte!System.Runtime.CompilerServices.IsSignUnspecifiedByte>*!System.Runtime.CompilerServices.IsImplicitlyDereferenced,System.Int32,System.SByte!System.Runtime.CompilerServices.IsSignUnspecifiedByte!System.Runtime.CompilerServices.IsConst*)'. -->
+        <!-- Discarding badly formed XML document comment for member 'T:entt.dispatcher'. -->
+        <!-- Discarding badly formed XML document comment for member 'M:fmt.v8.format_system_error(fmt.v8.detail.buffer<System.SByte!System.Runtime.CompilerServices.IsSignUnspecifiedByte>*!System.Runtime.CompilerServices.IsImplicitlyDereferenced,System.Int32,System.SByte!System.Runtime.CompilerServices.IsSignUnspecifiedByte!System.Runtime.CompilerServices.IsConst*)'. -->
+        <!-- Discarding badly formed XML document comment for member 'T:entt.dispatcher'. -->
+        <!-- Discarding badly formed XML document comment for member 'M:fmt.v8.format_system_error(fmt.v8.detail.buffer<System.SByte!System.Runtime.CompilerServices.IsSignUnspecifiedByte>*!System.Runtime.CompilerServices.IsImplicitlyDereferenced,System.Int32,System.SByte!System.Runtime.CompilerServices.IsSignUnspecifiedByte!System.Runtime.CompilerServices.IsConst*)'. -->
+        <!-- Discarding badly formed XML document comment for member 'M:ll.getAllPlugins'. -->
+        <!-- Discarding badly formed XML document comment for member 'M:LL.getAllPlugins'. -->
+        <!-- Discarding badly formed XML document comment for member 'T:entt.dispatcher'. -->
+        <!-- Discarding badly formed XML document comment for member 'M:fmt.v8.format_system_error(fmt.v8.detail.buffer<System.SByte!System.Runtime.CompilerServices.IsSignUnspecifiedByte>*!System.Runtime.CompilerServices.IsImplicitlyDereferenced,System.Int32,System.SByte!System.Runtime.CompilerServices.IsSignUnspecifiedByte!System.Runtime.CompilerServices.IsConst*)'. -->
+        <!-- Discarding badly formed XML document comment for member 'T:entt.dispatcher'. -->
+        <!-- Discarding badly formed XML document comment for member 'M:fmt.v8.format_system_error(fmt.v8.detail.buffer<System.SByte!System.Runtime.CompilerServices.IsSignUnspecifiedByte>*!System.Runtime.CompilerServices.IsImplicitlyDereferenced,System.Int32,System.SByte!System.Runtime.CompilerServices.IsSignUnspecifiedByte!System.Runtime.CompilerServices.IsConst*)'. -->
+        <!-- Discarding badly formed XML document comment for member 'M:ll.getAllPlugins'. -->
+        <!-- Discarding badly formed XML document comment for member 'M:LL.getAllPlugins'. -->
+        <!-- Discarding badly formed XML document comment for member 'T:entt.dispatcher'. -->
+        <!-- Discarding badly formed XML document comment for member 'M:fmt.v8.format_system_error(fmt.v8.detail.buffer<System.SByte!System.Runtime.CompilerServices.IsSignUnspecifiedByte>*!System.Runtime.CompilerServices.IsImplicitlyDereferenced,System.Int32,System.SByte!System.Runtime.CompilerServices.IsSignUnspecifiedByte!System.Runtime.CompilerServices.IsConst*)'. -->
+        <!-- Discarding badly formed XML document comment for member 'T:entt.dispatcher'. -->
+        <!-- Discarding badly formed XML document comment for member 'M:fmt.v8.format_system_error(fmt.v8.detail.buffer<System.SByte!System.Runtime.CompilerServices.IsSignUnspecifiedByte>*!System.Runtime.CompilerServices.IsImplicitlyDereferenced,System.Int32,System.SByte!System.Runtime.CompilerServices.IsSignUnspecifiedByte!System.Runtime.CompilerServices.IsConst*)'. -->
+        <!-- Discarding badly formed XML document comment for member 'T:entt.dispatcher'. -->
+        <!-- Discarding badly formed XML document comment for member 'M:fmt.v8.format_system_error(fmt.v8.detail.buffer<System.SByte!System.Runtime.CompilerServices.IsSignUnspecifiedByte>*!System.Runtime.CompilerServices.IsImplicitlyDereferenced,System.Int32,System.SByte!System.Runtime.CompilerServices.IsSignUnspecifiedByte!System.Runtime.CompilerServices.IsConst*)'. -->
+        <!-- Discarding badly formed XML document comment for member 'M:ll.getAllPlugins'. -->
+        <!-- Discarding badly formed XML document comment for member 'M:LL.getAllPlugins'. -->
+        <!-- Discarding badly formed XML document comment for member 'T:entt.dispatcher'. -->
+        <!-- Discarding badly formed XML document comment for member 'M:fmt.v8.format_system_error(fmt.v8.detail.buffer<System.SByte!System.Runtime.CompilerServices.IsSignUnspecifiedByte>*!System.Runtime.CompilerServices.IsImplicitlyDereferenced,System.Int32,System.SByte!System.Runtime.CompilerServices.IsSignUnspecifiedByte!System.Runtime.CompilerServices.IsConst*)'. -->
+        <!-- Discarding badly formed XML document comment for member 'T:entt.dispatcher'. -->
+        <!-- Discarding badly formed XML document comment for member 'M:fmt.v8.format_system_error(fmt.v8.detail.buffer<System.SByte!System.Runtime.CompilerServices.IsSignUnspecifiedByte>*!System.Runtime.CompilerServices.IsImplicitlyDereferenced,System.Int32,System.SByte!System.Runtime.CompilerServices.IsSignUnspecifiedByte!System.Runtime.CompilerServices.IsConst*)'. -->
+        <!-- Discarding badly formed XML document comment for member 'T:entt.dispatcher'. -->
+        <!-- Discarding badly formed XML document comment for member 'M:fmt.v8.format_system_error(fmt.v8.detail.buffer<System.SByte!System.Runtime.CompilerServices.IsSignUnspecifiedByte>*!System.Runtime.CompilerServices.IsImplicitlyDereferenced,System.Int32,System.SByte!System.Runtime.CompilerServices.IsSignUnspecifiedByte!System.Runtime.CompilerServices.IsConst*)'. -->
+        <!-- Discarding badly formed XML document comment for member 'T:entt.dispatcher'. -->
+        <!-- Discarding badly formed XML document comment for member 'M:fmt.v8.format_system_error(fmt.v8.detail.buffer<System.SByte!System.Runtime.CompilerServices.IsSignUnspecifiedByte>*!System.Runtime.CompilerServices.IsImplicitlyDereferenced,System.Int32,System.SByte!System.Runtime.CompilerServices.IsSignUnspecifiedByte!System.Runtime.CompilerServices.IsConst*)'. -->
+        <!-- Discarding badly formed XML document comment for member 'M:ll.getAllPlugins'. -->
+        <!-- Discarding badly formed XML document comment for member 'M:LL.getAllPlugins'. -->
+        <!-- Discarding badly formed XML document comment for member 'T:entt.dispatcher'. -->
+        <!-- Discarding badly formed XML document comment for member 'M:fmt.v8.format_system_error(fmt.v8.detail.buffer<System.SByte!System.Runtime.CompilerServices.IsSignUnspecifiedByte>*!System.Runtime.CompilerServices.IsImplicitlyDereferenced,System.Int32,System.SByte!System.Runtime.CompilerServices.IsSignUnspecifiedByte!System.Runtime.CompilerServices.IsConst*)'. -->
+        <!-- Discarding badly formed XML document comment for member 'M:ll.getAllPlugins'. -->
+        <!-- Discarding badly formed XML document comment for member 'M:LL.getAllPlugins'. -->
+        <!-- Discarding badly formed XML document comment for member 'T:entt.dispatcher'. -->
+        <!-- Discarding badly formed XML document comment for member 'M:fmt.v8.format_system_error(fmt.v8.detail.buffer<System.SByte!System.Runtime.CompilerServices.IsSignUnspecifiedByte>*!System.Runtime.CompilerServices.IsImplicitlyDereferenced,System.Int32,System.SByte!System.Runtime.CompilerServices.IsSignUnspecifiedByte!System.Runtime.CompilerServices.IsConst*)'. -->
+        <!-- Discarding badly formed XML document comment for member 'M:ll.getAllPlugins'. -->
+        <!-- Discarding badly formed XML document comment for member 'M:LL.getAllPlugins'. -->
+        <!-- Discarding badly formed XML document comment for member 'T:entt.dispatcher'. -->
+        <!-- Discarding badly formed XML document comment for member 'M:fmt.v8.format_system_error(fmt.v8.detail.buffer<System.SByte!System.Runtime.CompilerServices.IsSignUnspecifiedByte>*!System.Runtime.CompilerServices.IsImplicitlyDereferenced,System.Int32,System.SByte!System.Runtime.CompilerServices.IsSignUnspecifiedByte!System.Runtime.CompilerServices.IsConst*)'. -->
+        <!-- Discarding badly formed XML document comment for member 'T:entt.dispatcher'. -->
+        <!-- Discarding badly formed XML document comment for member 'M:fmt.v8.format_system_error(fmt.v8.detail.buffer<System.SByte!System.Runtime.CompilerServices.IsSignUnspecifiedByte>*!System.Runtime.CompilerServices.IsImplicitlyDereferenced,System.Int32,System.SByte!System.Runtime.CompilerServices.IsSignUnspecifiedByte!System.Runtime.CompilerServices.IsConst*)'. -->
         <!-- Discarding badly formed XML document comment for member 'M:ll.getAllPlugins'. -->
         <!-- Discarding badly formed XML document comment for member 'M:LL.getAllPlugins'. -->
         <!-- Discarding badly formed XML document comment for member 'T:entt.dispatcher'. -->
@@ -17576,8 +17596,6 @@ Internal details not to be documented.
         <!-- Discarding badly formed XML document comment for member 'M:fmt.v8.format_system_error(fmt.v8.detail.buffer<System.SByte!System.Runtime.CompilerServices.IsSignUnspecifiedByte>*!System.Runtime.CompilerServices.IsImplicitlyDereferenced,System.Int32,System.SByte!System.Runtime.CompilerServices.IsSignUnspecifiedByte!System.Runtime.CompilerServices.IsConst*)'. -->
         <!-- Discarding badly formed XML document comment for member 'T:entt.dispatcher'. -->
         <!-- Discarding badly formed XML document comment for member 'M:fmt.v8.format_system_error(fmt.v8.detail.buffer<System.SByte!System.Runtime.CompilerServices.IsSignUnspecifiedByte>*!System.Runtime.CompilerServices.IsImplicitlyDereferenced,System.Int32,System.SByte!System.Runtime.CompilerServices.IsSignUnspecifiedByte!System.Runtime.CompilerServices.IsConst*)'. -->
-        <!-- Discarding badly formed XML document comment for member 'T:entt.dispatcher'. -->
-        <!-- Discarding badly formed XML document comment for member 'M:fmt.v8.format_system_error(fmt.v8.detail.buffer<System.SByte!System.Runtime.CompilerServices.IsSignUnspecifiedByte>*!System.Runtime.CompilerServices.IsImplicitlyDereferenced,System.Int32,System.SByte!System.Runtime.CompilerServices.IsSignUnspecifiedByte!System.Runtime.CompilerServices.IsConst*)'. -->
         <!-- Discarding badly formed XML document comment for member 'M:ll.getAllPlugins'. -->
         <!-- Discarding badly formed XML document comment for member 'M:LL.getAllPlugins'. -->
         <!-- Discarding badly formed XML document comment for member 'T:entt.dispatcher'. -->
@@ -17608,8 +17626,6 @@ Internal details not to be documented.
         <!-- Discarding badly formed XML document comment for member 'M:fmt.v8.format_system_error(fmt.v8.detail.buffer<System.SByte!System.Runtime.CompilerServices.IsSignUnspecifiedByte>*!System.Runtime.CompilerServices.IsImplicitlyDereferenced,System.Int32,System.SByte!System.Runtime.CompilerServices.IsSignUnspecifiedByte!System.Runtime.CompilerServices.IsConst*)'. -->
         <!-- Discarding badly formed XML document comment for member 'M:ll.getAllPlugins'. -->
         <!-- Discarding badly formed XML document comment for member 'M:LL.getAllPlugins'. -->
-        <!-- Discarding badly formed XML document comment for member 'T:entt.dispatcher'. -->
-        <!-- Discarding badly formed XML document comment for member 'M:fmt.v8.format_system_error(fmt.v8.detail.buffer<System.SByte!System.Runtime.CompilerServices.IsSignUnspecifiedByte>*!System.Runtime.CompilerServices.IsImplicitlyDereferenced,System.Int32,System.SByte!System.Runtime.CompilerServices.IsSignUnspecifiedByte!System.Runtime.CompilerServices.IsConst*)'. -->
         <!-- Discarding badly formed XML document comment for member 'T:entt.dispatcher'. -->
         <!-- Discarding badly formed XML document comment for member 'M:fmt.v8.format_system_error(fmt.v8.detail.buffer<System.SByte!System.Runtime.CompilerServices.IsSignUnspecifiedByte>*!System.Runtime.CompilerServices.IsImplicitlyDereferenced,System.Int32,System.SByte!System.Runtime.CompilerServices.IsSignUnspecifiedByte!System.Runtime.CompilerServices.IsConst*)'. -->
         <!-- Discarding badly formed XML document comment for member 'T:entt.dispatcher'. -->
