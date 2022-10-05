@@ -685,92 +685,80 @@ Experience required to upgrade to level from (level-1)
             </summary>
         </member>
         <member name="T:CommandOutputMessageType">
-@symbol
-?addMessage@CommandOutput@@AEAAXAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@AEBV?$vector@VCommandOutputParameter@@V?$allocator@VCommandOutputParameter@@@std@@@3@W4CommandOutputMessageType@@@Z
-@hash   -2124484666
+@symbol ?addMessage@CommandOutput@@AEAAXAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@AEBV?$vector@VCommandOutputParameter@@V?$allocator@VCommandOutputParameter@@@std@@@3@W4CommandOutputMessageType@@@Z
 
 </member>
         <member name="M:CommandOutput.Dispose">
-@symbol ??1CommandOutput@@QEAA@XZ
 @hash   56722184
+@symbol ??1CommandOutput@@QEAA@XZ
 
 </member>
         <member name="M:CommandOutput.wantsData">
-@symbol ?wantsData@CommandOutput@@QEBA_NXZ
 @hash   -1266489514
+@symbol ?wantsData@CommandOutput@@QEBA_NXZ
 
 </member>
         <member name="M:CommandOutput.success">
-@symbol ?success@CommandOutput@@QEAAXXZ
 @hash   163386203
+@symbol ?success@CommandOutput@@QEAAXXZ
 
 </member>
         <member name="M:CommandOutput.success(std.basic_string&lt;System.SByte!System.Runtime.CompilerServices.IsSignUnspecifiedByte,std.char_traits{System.SByte!System.Runtime.CompilerServices.IsSignUnspecifiedByte},std.allocator&lt;System.SByte!System.Runtime.CompilerServices.IsSignUnspecifiedByte&gt;&gt;!System.Runtime.CompilerServices.IsConst*!System.Runtime.CompilerServices.IsImplicitlyDereferenced,std.vector&lt;CommandOutputParameter,std.allocator&lt;CommandOutputParameter&gt;&gt;!System.Runtime.CompilerServices.IsConst*!System.Runtime.CompilerServices.IsImplicitlyDereferenced)">
-@symbol
-?success@CommandOutput@@QEAAXAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@AEBV?$vector@VCommandOutputParameter@@V?$allocator@VCommandOutputParameter@@@std@@@3@@Z
-@hash   1780476233
+@symbol ?success@CommandOutput@@QEAAXAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@AEBV?$vector@VCommandOutputParameter@@V?$allocator@VCommandOutputParameter@@@std@@@3@@Z
 
 </member>
         <member name="M:CommandOutput.setHasPlayerText">
-@symbol ?setHasPlayerText@CommandOutput@@QEAAXXZ
 @hash   1334051535
+@symbol ?setHasPlayerText@CommandOutput@@QEAAXXZ
 
 </member>
         <member name="M:CommandOutput.hasPlayerText">
-@symbol ?hasPlayerText@CommandOutput@@QEBA_NXZ
 @hash   1611387254
+@symbol ?hasPlayerText@CommandOutput@@QEBA_NXZ
 
 </member>
         <member name="M:CommandOutput.getSuccessCount">
-@symbol ?getSuccessCount@CommandOutput@@QEBAHXZ
 @hash   1360894636
+@symbol ?getSuccessCount@CommandOutput@@QEBAHXZ
 
 </member>
         <member name="M:CommandOutput.getMessages">
-@symbol
-?getMessages@CommandOutput@@QEBAAEBV?$vector@VCommandOutputMessage@@V?$allocator@VCommandOutputMessage@@@std@@@std@@XZ
-@hash   -788988960
+@symbol ?getMessages@CommandOutput@@QEBAAEBV?$vector@VCommandOutputMessage@@V?$allocator@VCommandOutputMessage@@@std@@@std@@XZ
 
 </member>
         <member name="T:CommandPropertyBag">
-@symbol ?getData@CommandOutput@@QEBAAEBVCommandPropertyBag@@XZ
 @hash   -1317558974
+@symbol ?getData@CommandOutput@@QEBAAEBVCommandPropertyBag@@XZ
 
 </member>
         <member name="M:CommandOutput.forceOutput(std.basic_string&lt;System.SByte!System.Runtime.CompilerServices.IsSignUnspecifiedByte,std.char_traits{System.SByte!System.Runtime.CompilerServices.IsSignUnspecifiedByte},std.allocator&lt;System.SByte!System.Runtime.CompilerServices.IsSignUnspecifiedByte&gt;&gt;!System.Runtime.CompilerServices.IsConst*!System.Runtime.CompilerServices.IsImplicitlyDereferenced,std.vector&lt;CommandOutputParameter,std.allocator&lt;CommandOutputParameter&gt;&gt;!System.Runtime.CompilerServices.IsConst*!System.Runtime.CompilerServices.IsImplicitlyDereferenced)">
-@symbol
-?forceOutput@CommandOutput@@QEAAXAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@AEBV?$vector@VCommandOutputParameter@@V?$allocator@VCommandOutputParameter@@@std@@@3@@Z
-@hash   1031751947
+@symbol ?forceOutput@CommandOutput@@QEAAXAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@AEBV?$vector@VCommandOutputParameter@@V?$allocator@VCommandOutputParameter@@@std@@@3@@Z
 
 </member>
         <member name="M:CommandOutput.error(std.basic_string&lt;System.SByte!System.Runtime.CompilerServices.IsSignUnspecifiedByte,std.char_traits{System.SByte!System.Runtime.CompilerServices.IsSignUnspecifiedByte},std.allocator&lt;System.SByte!System.Runtime.CompilerServices.IsSignUnspecifiedByte&gt;&gt;!System.Runtime.CompilerServices.IsConst*!System.Runtime.CompilerServices.IsImplicitlyDereferenced,std.vector&lt;CommandOutputParameter,std.allocator&lt;CommandOutputParameter&gt;&gt;!System.Runtime.CompilerServices.IsConst*!System.Runtime.CompilerServices.IsImplicitlyDereferenced)">
-@symbol
-?error@CommandOutput@@QEAAXAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@AEBV?$vector@VCommandOutputParameter@@V?$allocator@VCommandOutputParameter@@@std@@@3@@Z
-@hash   1420096547
+@symbol ?error@CommandOutput@@QEAAXAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@AEBV?$vector@VCommandOutputParameter@@V?$allocator@VCommandOutputParameter@@@std@@@3@@Z
 
 </member>
         <member name="M:CommandOutput.empty">
-@symbol ?empty@CommandOutput@@QEBA_NXZ
 @hash   2114801942
+@symbol ?empty@CommandOutput@@QEBA_NXZ
 
 </member>
         <member name="M:CommandOutput.addToResultList(std.basic_string&lt;System.SByte!System.Runtime.CompilerServices.IsSignUnspecifiedByte,std.char_traits{System.SByte!System.Runtime.CompilerServices.IsSignUnspecifiedByte},std.allocator&lt;System.SByte!System.Runtime.CompilerServices.IsSignUnspecifiedByte&gt;&gt;!System.Runtime.CompilerServices.IsConst*!System.Runtime.CompilerServices.IsImplicitlyDereferenced,std.basic_string&lt;System.SByte!System.Runtime.CompilerServices.IsSignUnspecifiedByte,std.char_traits{System.SByte!System.Runtime.CompilerServices.IsSignUnspecifiedByte},std.allocator&lt;System.SByte!System.Runtime.CompilerServices.IsSignUnspecifiedByte&gt;&gt;!System.Runtime.CompilerServices.IsConst*!System.Runtime.CompilerServices.IsImplicitlyDereferenced)">
-@symbol ?addToResultList@CommandOutput@@QEAAXAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@0@Z
 @hash   1625676890
+@symbol ?addToResultList@CommandOutput@@QEAAXAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@0@Z
 
 </member>
         <member name="T:CommandOutputType">
-@symbol ??0CommandOutput@@QEAA@W4CommandOutputType@@@Z
 @hash   -1906512777
+@symbol ??0CommandOutput@@QEAA@W4CommandOutputType@@@Z
 
 
-@symbol ?getType@CommandOutput@@QEBA?AW4CommandOutputType@@XZ
 @hash   -1159705490
+@symbol ?getType@CommandOutput@@QEBA?AW4CommandOutputType@@XZ
 
 
-@symbol
-?load@CommandOutput@@QEAAXW4CommandOutputType@@H$$QEAV?$vector@VCommandOutputMessage@@V?$allocator@VCommandOutputMessage@@@std@@@std@@$$QEAV?$unique_ptr@VCommandPropertyBag@@U?$default_delete@VCommandPropertyBag@@@std@@@4@@Z
-@hash   847267746
+@symbol ?load@CommandOutput@@QEAAXW4CommandOutputType@@H$$QEAV?$vector@VCommandOutputMessage@@V?$allocator@VCommandOutputMessage@@@std@@@std@@$$QEAV?$unique_ptr@VCommandPropertyBag@@U?$default_delete@VCommandPropertyBag@@@std@@@4@@Z
 
 </member>
         <member name="M:CommandOutput.error(std.basic_string&lt;System.SByte!System.Runtime.CompilerServices.IsSignUnspecifiedByte,std.char_traits{System.SByte!System.Runtime.CompilerServices.IsSignUnspecifiedByte},std.allocator&lt;System.SByte!System.Runtime.CompilerServices.IsSignUnspecifiedByte&gt;&gt;!System.Runtime.CompilerServices.IsConst*!System.Runtime.CompilerServices.IsImplicitlyDereferenced)">
@@ -1247,8 +1235,8 @@ Experience required to upgrade to level from (level-1)
 
 
 
-@symbol ??0CommandOutput@@QEAA@AEBV0@@Z
 @hash   -1418144527
+@symbol ??0CommandOutput@@QEAA@AEBV0@@Z
 
 </member>
         <member name="F:Command.WILDCARD_TOKEN">
@@ -1361,7 +1349,6 @@ Experience required to upgrade to level from (level-1)
 
 
  @file  CommandOutput.hpp
- @note  This Header is auto generated by LiteLoaderBDS Toolchain.
 
 
  @file  CommandOutputParameter.hpp
@@ -4254,7 +4241,6 @@ std containers
 
 </member>
         <member name="M:ServerNetworkHandler.Dispose">
-@hash   1522161476
 @symbol __unk_destructor_-1
 
 </member>
@@ -15857,9 +15843,7 @@ root value)
 @symbol ?handleActorPickRequestOnServer@ServerPlayer@@QEAAXAEAVActor@@_N1@Z
 
 
-@symbol
-?addToResultList@CommandOutput@@QEAAXAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@AEBVActor@@@Z
-@hash   -2019758587
+@symbol ?addToResultList@CommandOutput@@QEAAXAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@AEBVActor@@@Z
 
 
 @hash   884234586
