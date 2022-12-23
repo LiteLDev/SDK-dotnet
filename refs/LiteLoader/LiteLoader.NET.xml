@@ -39,110 +39,110 @@
 @hash   539364613
 
 </member>
-        <member name="T:LLNET.DynamicCommand.CommandEmptyOverloadAttribute">
+        <member name="T:LiteLoader.DynamicCommand.CommandEmptyOverloadAttribute">
             <summary>
 Indicates that the command has empty overload.
 </summary>
         </member>
-        <member name="F:LLNET.DynamicCommand.CommandParameterOverloadAttribute.OverloadId">
+        <member name="F:LiteLoader.DynamicCommand.CommandParameterOverloadAttribute.OverloadId">
             <summary>
 Command parameter overload id.
 </summary>
         </member>
-        <member name="M:LLNET.DynamicCommand.CommandParameterOverloadAttribute.#ctor(System.Int32)">
+        <member name="M:LiteLoader.DynamicCommand.CommandParameterOverloadAttribute.#ctor(System.Int32)">
             <summary>
 Command parameter overload id.
 </summary>
         </member>
-        <member name="T:LLNET.DynamicCommand.CommandParameterOverloadAttribute">
+        <member name="T:LiteLoader.DynamicCommand.CommandParameterOverloadAttribute">
             <summary>
 Indicates the parameter overload id.
 </summary>
         </member>
-        <member name="P:LLNET.DynamicCommand.CommandParameterAttribute.OverloadId">
+        <member name="P:LiteLoader.DynamicCommand.CommandParameterAttribute.OverloadId">
             <summary>
 Indicates the parameter overload id.
 </summary>
         </member>
-        <member name="F:LLNET.DynamicCommand.CommandParameterAttribute.Option">
+        <member name="F:LiteLoader.DynamicCommand.CommandParameterAttribute.Option">
             <summary>
 Command parameter option.
 </summary>
         </member>
-        <member name="F:LLNET.DynamicCommand.CommandParameterAttribute.Identifier">
+        <member name="F:LiteLoader.DynamicCommand.CommandParameterAttribute.Identifier">
             <summary>
 QAQ
 </summary>
         </member>
-        <member name="F:LLNET.DynamicCommand.CommandParameterAttribute.IsMandatory">
+        <member name="F:LiteLoader.DynamicCommand.CommandParameterAttribute.IsMandatory">
             <summary>
 Indicates whether this parameter is mandatory or not.
 </summary>
         </member>
-        <member name="F:LLNET.DynamicCommand.CommandParameterAttribute.Type">
+        <member name="F:LiteLoader.DynamicCommand.CommandParameterAttribute.Type">
             <summary>
 Command parameter type.
 </summary>
         </member>
-        <member name="M:LLNET.DynamicCommand.CommandParameterAttribute.#ctor(LLNET.DynamicCommand.DynamicCommand.ParameterType)">
+        <member name="M:LiteLoader.DynamicCommand.CommandParameterAttribute.#ctor(LiteLoader.DynamicCommand.DynamicCommand.ParameterType)">
             <summary />
             <param name="paramType">
                 <para>－Command parameter type.</para>
                 <para>Please check the parameter type, or you will get a cute exception.</para>
             </param>
         </member>
-        <member name="T:LLNET.DynamicCommand.CommandParameterAttribute">
+        <member name="T:LiteLoader.DynamicCommand.CommandParameterAttribute">
             <summary>
 Indicates that a field or property will be registered.
 </summary>
         </member>
-        <member name="T:LLNET.DynamicCommand.CommandEnumAttribute">
+        <member name="T:LiteLoader.DynamicCommand.CommandEnumAttribute">
             <summary>
 Indicates that a enum will be registered.
 </summary>
         </member>
-        <member name="F:LLNET.DynamicCommand.CommandAliasAttribute.Alia">
+        <member name="F:LiteLoader.DynamicCommand.CommandAliasAttribute.Alia">
             <summary>
 Command Alia.
 </summary>
         </member>
-        <member name="M:LLNET.DynamicCommand.CommandAliasAttribute.#ctor(System.String)">
+        <member name="M:LiteLoader.DynamicCommand.CommandAliasAttribute.#ctor(System.String)">
             <summary />
 /// <param name="alia">－Command Alia.</param></member>
-        <member name="T:LLNET.DynamicCommand.CommandAliasAttribute">
+        <member name="T:LiteLoader.DynamicCommand.CommandAliasAttribute">
             <summary>
 Set command alias by attribute.
 </summary>
         </member>
-        <member name="F:LLNET.DynamicCommand.CommandAttribute.AutoReset">
+        <member name="F:LiteLoader.DynamicCommand.CommandAttribute.AutoReset">
             <summary>
 These command parameters will be reset after excuted by creating a new instance.
 </summary>
         </member>
-        <member name="F:LLNET.DynamicCommand.CommandAttribute.Alia">
+        <member name="F:LiteLoader.DynamicCommand.CommandAttribute.Alia">
             <summary>
 Command Alia.
 </summary>
         </member>
-        <member name="F:LLNET.DynamicCommand.CommandAttribute.Permission">
+        <member name="F:LiteLoader.DynamicCommand.CommandAttribute.Permission">
             <summary>
 Command execution permission.
 </summary>
         </member>
-        <member name="F:LLNET.DynamicCommand.CommandAttribute.Description">
+        <member name="F:LiteLoader.DynamicCommand.CommandAttribute.Description">
             <summary>
 Command description.
 </summary>
         </member>
-        <member name="F:LLNET.DynamicCommand.CommandAttribute.Name">
+        <member name="F:LiteLoader.DynamicCommand.CommandAttribute.Name">
             <summary>
 Command name, lower-case only.
 </summary>
         </member>
-        <member name="M:LLNET.DynamicCommand.CommandAttribute.#ctor(System.String)">
+        <member name="M:LiteLoader.DynamicCommand.CommandAttribute.#ctor(System.String)">
             <param name="name">－Command name, lower-case only.</param>
         </member>
-        <member name="T:LLNET.DynamicCommand.CommandAttribute">
+        <member name="T:LiteLoader.DynamicCommand.CommandAttribute">
             <summary>
 Provides registration info for a command class.
 </summary>
@@ -1093,7 +1093,7 @@ QAQ
 
 
 </member>
-        <member name="M:LLNET.RemoteCall.Value.#ctor(LLNET.RemoteCall.Value!System.Runtime.CompilerServices.IsImplicitlyDereferenced)">
+        <member name="M:LiteLoader.RemoteCall.Value.#ctor(LiteLoader.RemoteCall.Value!System.Runtime.CompilerServices.IsImplicitlyDereferenced)">
             <summary>
 Copy
 </summary>
@@ -2001,12 +2001,12 @@ Experience required to upgrade to level from (level-1)
         </member>
         <member name="P:MC.Player.TotalExperience">
             <summary>
-                <exception cref="T:LLNET.Core.MCException" />
+                <exception cref="T:LiteLoader.NET.MCException" />
             </summary>
         </member>
         <member name="P:MC.Player.CurrentExperience">
             <summary>
-                <exception cref="T:LLNET.Core.MCException" />
+                <exception cref="T:LiteLoader.NET.MCException" />
             </summary>
         </member>
         <member name="T:CommandOutputMessageType">
