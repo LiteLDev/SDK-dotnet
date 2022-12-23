@@ -9294,7 +9294,7 @@ Determine if this block instance is null.
         </member>
         <member name="P:MC.BlockInstance.HasBlockEntity">
             <summary>
-Determine if this block instance has a block entity.
+   Determine if this block instance has a block entity.
 </summary>
         </member>
         <member name="P:MC.BlockInstance.DimensionId">
