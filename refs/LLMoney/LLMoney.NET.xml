@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        "LLMoney.NET"
+    </assembly>
+    <members>
+        <member name="T:clix.Encoding">
+            <summary>Encoding types for strings</summary>
+        </member>
+        <member name="F:E_UTF16">
+            <summary>UTF-16 encoding</summary>
+            <remarks>
+  This is the suggested encoding for marshaling and the native encoding of .NET strings.
+  It is similar to UTF-8 but uses a minimum of two bytes per character, making the number
+  of bytes required for a given string better predictable. Be aware, however, that UTF-16
+  can still use more than two bytes for a character, so std::wstring::length() might not
+  reflect the actual length of the string.
+</remarks>
+        </member>
+        <member name="F:E_UTF8">
+            <summary>UTF-8 encoding</summary>
+            <remarks>
+  This is the encoding commonly used for multilingual C++ strings. All ASCII characters
+  (0-127) will be represented as single bytes. Be aware that UTF-8 uses more than one
+  byte for extended characters, so std::string::length() might not reflect the actual
+  length of the string in characters if it contains any non-ASCII characters.
+</remarks>
+        </member>
+        <member name="F:E_ANSI">
+            <summary>ANSI encoding</summary>
+            <remarks>
+  This is the default encoding you've most likely been using all around in C++. ANSI
+  means 8 Bit encoding with character codes depending on the system's selected code page.
+</remarks>
+        </member>
+    </members>
+</doc>
